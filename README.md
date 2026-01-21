@@ -1,70 +1,162 @@
-Driveon – Map Matching Web Application
+## DRIVEON - MAP MATCHING WEB APPLICATION
 
-Driveon is a web-based Map Matching application built using Flask and PHP (XAMPP).
-It analyzes vehicle movement and classifies highway vs service road travel using AI/ML techniques, with interactive map visualization.
+## INTRODUCTION
 
-Features
+Driveon is a web-based Map Matching application designed to analyze vehicle movement and accurately align GPS trajectories with real-world road networks. The system focuses on distinguishing between highway and service road movement using AI and Machine Learning techniques. It is intended for traffic analysis, route optimization, and intelligent transportation decision-making.
 
-Accurate map matching of GPS data
+The project follows a hybrid architecture where PHP is used for authentication and Flask is used for backend processing and map visualization.
 
-AI/ML-based road classification
+---
 
-Interactive map visualization
+## PROJECT OBJECTIVES
 
-PHP-based user authentication
+* Perform accurate map matching of GPS data
+* Classify road types such as highways and service roads
+* Visualize vehicle movement on interactive maps
+* Integrate PHP-based authentication with Flask backend
+* Enable scalable traffic and route analysis
 
-Flask backend integration
+---
 
-Project Structure
-Driveon/
-│
-├── app.py
-├── templates/
-│   ├── landing.html
-│   └── index_map.html
-├── static/
-│   ├── dark.jpg
-│   └── css/style.css
-└── xampp/htdocs/
-    └── index.php
+## SYSTEM ARCHITECTURE
 
-Technologies Used
+The application operates using two parallel servers:
 
-Frontend: HTML, CSS, JavaScript
+* Apache Server (XAMPP)
 
-Backend: Flask (Python)
+  * Handles user authentication using PHP
+  * Hosts the initial landing page
 
-Authentication: PHP (XAMPP)
+* Flask Server (Python)
 
-Mapping: Mapbox
+  * Executes map matching algorithms
+  * Renders map visualization and analytics pages
 
-How to Run
+Application Flow:
+index.php (Apache)
 
-Start Apache in XAMPP
+* redirects to
+  Flask Application (app.py)
+* renders
+  Map Visualization Page
 
-Run Flask:
+---
 
-python app.py
+## PROJECT STRUCTURE
 
+Driveon
 
-Open in browser:
+* app.py
+* templates
 
-http://localhost/index.php
+  * landing.html
+  * index_map.html
+* static
 
+  * dark.jpg
+  * css
 
-Click Get Started to access Flask routes.
+    * style.css
+* xampp
 
-Flask Routes
-@app.route('/')
-def home():
-    return render_template('landing.html')
+  * htdocs
 
-@app.route('/index_map')
-def index_map():
-    return render_template('index_map.html')
+    * index.php
 
-Static Files
+---
 
-Images placed inside the static folder are accessed using:
+## TECHNOLOGIES USED
 
-{{ url_for('static', filename='dark.jpg') }}
+* Frontend - HTML, CSS, JavaScript
+* Backend - Flask (Python)
+* Authentication - PHP (XAMPP)
+* Mapping - Mapbox
+* AI and Machine Learning - Python
+
+---
+
+## FLASK ROUTES
+
+* /           - Landing page
+* /index_map  - Map visualization page
+
+---
+
+## STATIC FILE MANAGEMENT
+
+All static resources such as images and stylesheets are stored in the static directory. Flask serves these files automatically.
+
+Example reference format:
+
+* static/dark.jpg
+
+---
+
+## HOW TO RUN THE PROJECT
+
+Step 1 - Start Apache Server
+
+* Open XAMPP Control Panel
+* Start Apache service
+* Place index.php inside xampp/htdocs
+
+Step 2 - Run Flask Application
+
+* Open terminal in project directory
+* Execute the following command:
+  python app.py
+
+Flask runs on:
+
+* [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
+Step 3 - Access the Application
+
+* Open browser and visit:
+  [http://localhost/index.php](http://localhost/index.php)
+* Click Get Started to redirect to Flask application
+
+---
+
+## DEPLOYMENT DETAILS
+
+Current Deployment
+
+* Local deployment using XAMPP and Flask development server
+
+Deployment Flow
+
+* Apache handles authentication and entry point
+* Flask handles processing and visualization
+
+Future Deployment Scope
+
+* Cloud deployment using Docker
+* Reverse proxy configuration using Nginx
+* Unified hosting for PHP and Flask
+
+---
+
+## LIMITATIONS
+
+* Requires Apache and Flask servers to run simultaneously
+* Limited to local environment deployment
+* Map matching accuracy depends on GPS data quality
+
+---
+
+## FUTURE ENHANCEMENTS
+
+* Integration of real-time traffic data
+* Improved AI and ML model accuracy
+* Cloud-based scalable deployment
+* REST API support for external systems
+
+---
+
+## AUTHOR
+
+Mitali Sinha
+B.Tech - Artificial Intelligence and Machine Learning
+
+---
