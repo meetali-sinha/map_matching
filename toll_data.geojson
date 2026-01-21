@@ -1,0 +1,8255 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.122298,
+          21.117914
+        ]
+      },
+      "properties": {
+        "name": "Thakurtola (End of Durg Bypass)",
+        "LMV": "₹100-130",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2798,
+          14.90999
+        ]
+      },
+      "properties": {
+        "name": "Bankapur",
+        "LMV": "₹70-90",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64785,
+          15.76311
+        ]
+      },
+      "properties": {
+        "name": "Hirebagewadi",
+        "LMV": "₹80-110",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.287962,
+          21.214518
+        ]
+      },
+      "properties": {
+        "name": "Durg Bypass (Dhamdanaka)",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.51696,
+          16.1433
+        ]
+      },
+      "properties": {
+        "name": "Hattargi",
+        "LMV": "₹80-100",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31825,
+          16.5422
+        ]
+      },
+      "properties": {
+        "name": "Kognoli",
+        "LMV": "₹100-120",
+        "MAV": "₹500-600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.272821,
+          27.218247
+        ]
+      },
+      "properties": {
+        "name": "Tundla",
+        "LMV": "₹130-160",
+        "MAV": "₹200-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.003849,
+          12.875095
+        ]
+      },
+      "properties": {
+        "name": "Brahamarakotlu",
+        "LMV": "₹70-90",
+        "MAV": "₹220-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.861017,
+          25.41629
+        ]
+      },
+      "properties": {
+        "name": "Cable Stayed Naini Bridge",
+        "LMV": "₹150-180",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.817676,
+          25.033921
+        ]
+      },
+      "properties": {
+        "name": "Bassi",
+        "LMV": "₹60-80",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.199063,
+          25.09118
+        ]
+      },
+      "properties": {
+        "name": "Aroli",
+        "LMV": "₹70-90",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.598467,
+          25.072621
+        ]
+      },
+      "properties": {
+        "name": "Dhaneshwar",
+        "LMV": "₹80-110",
+        "MAV": "₹150-220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.572806,
+          25.122
+        ]
+      },
+      "properties": {
+        "name": "Fatehpur",
+        "LMV": "₹90-120",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.130552,
+          25.170089
+        ]
+      },
+      "properties": {
+        "name": "Simliya",
+        "LMV": "₹80-110",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.07338,
+          11.72034
+        ]
+      },
+      "properties": {
+        "name": "Omallur",
+        "LMV": "₹50-70",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.780812,
+          11.592809
+        ]
+      },
+      "properties": {
+        "name": "Nathakkarai",
+        "LMV": "₹60-80",
+        "MAV": "₹150-200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.010409,
+          11.736464
+        ]
+      },
+      "properties": {
+        "name": "Veeracholapuram (West)",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.08042,
+          12.00643
+        ]
+      },
+      "properties": {
+        "name": "Palayam (Dharmapuri)",
+        "LMV": "₹100-147",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.103219,
+          11.193895
+        ]
+      },
+      "properties": {
+        "name": "Rasampalayan",
+        "LMV": "₹50-70",
+        "MAV": "₹450-550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.968944,
+          12.982155
+        ]
+      },
+      "properties": {
+        "name": "Nemili (Sriperumbudur)",
+        "LMV": "₹60-80",
+        "MAV": "₹150-220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.420749,
+          28.836176
+        ]
+      },
+      "properties": {
+        "name": "Joya",
+        "LMV": "₹140-180",
+        "MAV": "₹120-180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.156824,
+          21.75667
+        ]
+      },
+      "properties": {
+        "name": "Khalghat -MP/Maharashtra Border(Sendhwa, Jamli)",
+        "LMV": "₹100-151",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.581277,
+          10.64127
+        ]
+      },
+      "properties": {
+        "name": "Boothakudi",
+        "LMV": "₹50-70",
+        "MAV": "₹150-220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.244086,
+          9.989594
+        ]
+      },
+      "properties": {
+        "name": "Chittampatti",
+        "LMV": "₹40-60",
+        "MAV": "₹120-180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.400004,
+          13.090749
+        ]
+      },
+      "properties": {
+        "name": "Banglore - Neelamangla",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.728025,
+          14.556778
+        ]
+      },
+      "properties": {
+        "name": "Chalageri",
+        "LMV": "₹75-95",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.010916,
+          26.467309
+        ]
+      },
+      "properties": {
+        "name": "Choundha",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.110043,
+          28.767149
+        ]
+      },
+      "properties": {
+        "name": "Brijghat",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.577976,
+          26.036608
+        ]
+      },
+      "properties": {
+        "name": "Usaka ( Chamari)",
+        "LMV": "₹100-130",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.938208,
+          22.822692
+        ]
+      },
+      "properties": {
+        "name": "Indore Dewas  (Indore Bypass)",
+        "LMV": "₹90-120",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.710995,
+          29.095601
+        ]
+      },
+      "properties": {
+        "name": "Siwaya",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.994017,
+          25.248275
+        ]
+      },
+      "properties": {
+        "name": "Daffi",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.559544,
+          25.19093
+        ]
+      },
+      "properties": {
+        "name": "Mohania",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.954997,
+          24.957125
+        ]
+      },
+      "properties": {
+        "name": "Sasaram",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.268034,
+          26.594931
+        ]
+      },
+      "properties": {
+        "name": "Anantram",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.274398,
+          26.724015
+        ]
+      },
+      "properties": {
+        "name": "Tendua (Gorakhpur Bypass)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.021485,
+          26.386389
+        ]
+      },
+      "properties": {
+        "name": "Barajore (Bara)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.663976,
+          21.805381
+        ]
+      },
+      "properties": {
+        "name": "Bharudi",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.781004,
+          22.082642
+        ]
+      },
+      "properties": {
+        "name": "Pithadiya",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95418,
+          21.303367
+        ]
+      },
+      "properties": {
+        "name": "Choryasi",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.971381,
+          17.810312
+        ]
+      },
+      "properties": {
+        "name": "Anewadi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.330768,
+          11.66167
+        ]
+      },
+      "properties": {
+        "name": "Mettupatti",
+        "LMV": "₹50-70",
+        "MAV": "₹150-220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3605999,
+          13.068175
+        ]
+      },
+      "properties": {
+        "name": "Doddakarenahalli (Neelmangala )",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.99356,
+          11.396808
+        ]
+      },
+      "properties": {
+        "name": "Thirumandurai",
+        "LMV": "₹55-75",
+        "MAV": "₹160-230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.67379,
+          24.271438
+        ]
+      },
+      "properties": {
+        "name": "Paduna",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.466193,
+          18.424491
+        ]
+      },
+      "properties": {
+        "name": "Patas",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.944346,
+          32.607394
+        ]
+      },
+      "properties": {
+        "name": "Thandikhui",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.755153,
+          20.450467
+        ]
+      },
+      "properties": {
+        "name": "Daroda",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.49059,
+          23.308555
+        ]
+      },
+      "properties": {
+        "name": "Samakhiyali",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.54022,
+          20.019307
+        ]
+      },
+      "properties": {
+        "name": "Kelapur",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.788359,
+          20.951008
+        ]
+      },
+      "properties": {
+        "name": "Nandgaon Peth",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.136059,
+          25.208647
+        ]
+      },
+      "properties": {
+        "name": "Mundiyar",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.451052,
+          25.461841
+        ]
+      },
+      "properties": {
+        "name": "Raksha",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.614165,
+          25.278913
+        ]
+      },
+      "properties": {
+        "name": "Ramnagar",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.779856,
+          12.346862
+        ]
+      },
+      "properties": {
+        "name": "Athur (Tindivanam)",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.149598,
+          13.043526
+        ]
+      },
+      "properties": {
+        "name": "Vanagaram (Chennai Bypass)",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.731283,
+          26.810525
+        ]
+      },
+      "properties": {
+        "name": "Mandawnagar",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.181624,
+          13.136678
+        ]
+      },
+      "properties": {
+        "name": "Surapattu (Chennai Bypass II)",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.981917,
+          12.723887
+        ]
+      },
+      "properties": {
+        "name": "Paranur (Chengalpet)",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.169353,
+          13.216958
+        ]
+      },
+      "properties": {
+        "name": "Nallur",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.54517,
+          22.269661
+        ]
+      },
+      "properties": {
+        "name": "Allonia",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.094492,
+          9.78299
+        ]
+      },
+      "properties": {
+        "name": "Eliyarpathi",
+        "LMV": "₹45-65",
+        "MAV": "₹140-200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.117106,
+          8.862935
+        ]
+      },
+      "properties": {
+        "name": "Pudurpandiyapuram",
+        "LMV": "₹40-60",
+        "MAV": "₹120-180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.26147,
+          24.620413
+        ]
+      },
+      "properties": {
+        "name": "Guna Bypass",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.526217,
+          24.322069
+        ]
+      },
+      "properties": {
+        "name": "Malthone",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.305485,
+          28.476208
+        ]
+      },
+      "properties": {
+        "name": "Badarpur",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.047247,
+          23.233839
+        ]
+      },
+      "properties": {
+        "name": "Titarpani",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.777334,
+          26.996524
+        ]
+      },
+      "properties": {
+        "name": "Gurau (Semra Atikabad)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.933397,
+          26.931976
+        ]
+      },
+      "properties": {
+        "name": "Jajau (Old Baretha)",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.923946,
+          11.513282
+        ]
+      },
+      "properties": {
+        "name": "Vaiguntham",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.942745,
+          23.490457
+        ]
+      },
+      "properties": {
+        "name": "Makhel",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.519702,
+          11.245714
+        ]
+      },
+      "properties": {
+        "name": "Vijaymangalmam",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.977168,
+          24.143855
+        ]
+      },
+      "properties": {
+        "name": "Bhiladi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.313542,
+          9.89525
+        ]
+      },
+      "properties": {
+        "name": "Kumbalam",
+        "LMV": "₹60-80",
+        "MAV": "₹200-280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.427652,
+          23.791263
+        ]
+      },
+      "properties": {
+        "name": "Varahi",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.932875,
+          10.699008
+        ]
+      },
+      "properties": {
+        "name": "Velanchettiyur",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.201132,
+          12.544583
+        ]
+      },
+      "properties": {
+        "name": "Krishnagiri",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.538059,
+          12.024441
+        ]
+      },
+      "properties": {
+        "name": "Vikravandi(Villupuram)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.951686,
+          12.905829
+        ]
+      },
+      "properties": {
+        "name": "Pallikonda",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.78836,
+          11.983278
+        ]
+      },
+      "properties": {
+        "name": "Morattandi",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5833,
+          12.648554
+        ]
+      },
+      "properties": {
+        "name": "Vaniyambadi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.663289,
+          8.527035
+        ]
+      },
+      "properties": {
+        "name": "Nanguneri",
+        "LMV": "₹55-75",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.909317,
+          10.194488
+        ]
+      },
+      "properties": {
+        "name": "Kodai Road",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.416845,
+          27.178509
+        ]
+      },
+      "properties": {
+        "name": "Ludhawai",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.914347,
+          9.385445
+        ]
+      },
+      "properties": {
+        "name": "Etturvattam",
+        "LMV": "₹50-70",
+        "MAV": "₹160-220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.011209,
+          9.844294
+        ]
+      },
+      "properties": {
+        "name": "Kappalur",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.774608,
+          8.975702
+        ]
+      },
+      "properties": {
+        "name": "Salaipudhur",
+        "LMV": "₹60-80",
+        "MAV": "₹200-280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.260179,
+          10.442868
+        ]
+      },
+      "properties": {
+        "name": "Paliyekkara",
+        "LMV": "₹65-85",
+        "MAV": "₹210-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.834044,
+          10.744371
+        ]
+      },
+      "properties": {
+        "name": "Valavanthankottai",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.765205,
+          12.962828
+        ]
+      },
+      "properties": {
+        "name": "Karbylu (Bellur Cross)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.065264,
+          8.755472
+        ]
+      },
+      "properties": {
+        "name": "Pudukottai (Vagaikulam)",
+        "LMV": "₹60-80",
+        "MAV": "₹200-280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.744056,
+          10.92937
+        ]
+      },
+      "properties": {
+        "name": "Samayapuram",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.322335,
+          11.706434
+        ]
+      },
+      "properties": {
+        "name": "Sengurichi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.715981,
+          27.114895
+        ]
+      },
+      "properties": {
+        "name": "Korai",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.456797,
+          22.173782
+        ]
+      },
+      "properties": {
+        "name": "Khalghat  (Indore - Khalghat)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.022711,
+          26.451663
+        ]
+      },
+      "properties": {
+        "name": "Parsoni Khem",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.939169,
+          26.595329
+        ]
+      },
+      "properties": {
+        "name": "Kishangarh (Badgaon)",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.564827,
+          26.112648
+        ]
+      },
+      "properties": {
+        "name": "Maithi",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7415,
+          27.089775
+        ]
+      },
+      "properties": {
+        "name": "Tatiyawas",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.692378,
+          31.617167
+        ]
+      },
+      "properties": {
+        "name": "Chiddan",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.813037,
+          30.527449
+        ]
+      },
+      "properties": {
+        "name": "Dappar",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.523999,
+          24.766166
+        ]
+      },
+      "properties": {
+        "name": "Gogunda (Jaswantgarh)",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.568495,
+          30.842218
+        ]
+      },
+      "properties": {
+        "name": "Kurali (Behrampur)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.624379,
+          25.082922
+        ]
+      },
+      "properties": {
+        "name": "Jojro Ka Khera",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.685331,
+          26.104125
+        ]
+      },
+      "properties": {
+        "name": "Kedi",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.627895,
+          23.993636
+        ]
+      },
+      "properties": {
+        "name": "Khandi Obari",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.233079,
+          24.613529
+        ]
+      },
+      "properties": {
+        "name": "Narayanpura",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.093755,
+          24.712368
+        ]
+      },
+      "properties": {
+        "name": "Malera",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.614819,
+          19.708905
+        ]
+      },
+      "properties": {
+        "name": "Ghoti",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.088805,
+          22.42301
+        ]
+      },
+      "properties": {
+        "name": "Vaghasia",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.598788,
+          32.382605
+        ]
+      },
+      "properties": {
+        "name": "Lakhanpur/ Rajbagh",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.326793,
+          21.751451
+        ]
+      },
+      "properties": {
+        "name": "Dhumiyani",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.210751,
+          20.325014
+        ]
+      },
+      "properties": {
+        "name": "Chandwad",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8525197,
+          18.3313849
+        ]
+      },
+      "properties": {
+        "name": "Khedshivapur",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.976492,
+          20.141701
+        ]
+      },
+      "properties": {
+        "name": "Baswant (Pimplegaon)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.032855,
+          21.088119
+        ]
+      },
+      "properties": {
+        "name": "Sendurwafa",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.889291,
+          21.319718
+        ]
+      },
+      "properties": {
+        "name": "Shirpur",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.89666,
+          21.137001
+        ]
+      },
+      "properties": {
+        "name": "Gondhkhairi/ Kondhali",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.897977,
+          30.738834
+        ]
+      },
+      "properties": {
+        "name": "Chandimandir",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.621688,
+          28.776746
+        ]
+      },
+      "properties": {
+        "name": "Dighal",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.323065,
+          31.499318
+        ]
+      },
+      "properties": {
+        "name": "Dhilwan",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.613363,
+          28.275006
+        ]
+      },
+      "properties": {
+        "name": "Gangaycha Jatt",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.997072,
+          31.577704
+        ]
+      },
+      "properties": {
+        "name": "Nijjarpura",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97014,
+          29.433664
+        ]
+      },
+      "properties": {
+        "name": "Panipat Elevated",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.978792,
+          29.584373
+        ]
+      },
+      "properties": {
+        "name": "Gharaunda (Karnal)",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.736825,
+          30.403832
+        ]
+      },
+      "properties": {
+        "name": "Sambhu(Ghaggar)",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.790082,
+          30.990725
+        ]
+      },
+      "properties": {
+        "name": "Ladowal",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.399287,
+          21.162103
+        ]
+      },
+      "properties": {
+        "name": "Karanja (Ghadge)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.332377,
+          28.00548
+        ]
+      },
+      "properties": {
+        "name": "Srinagar",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.737458,
+          27.337188
+        ]
+      },
+      "properties": {
+        "name": "Mahuvan",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.491513,
+          25.266948
+        ]
+      },
+      "properties": {
+        "name": "Lalanagar",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.238336,
+          26.631703
+        ]
+      },
+      "properties": {
+        "name": "Salemgarh",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.808555,
+          26.733855
+        ]
+      },
+      "properties": {
+        "name": "Muziana Hetim",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.417008,
+          26.781312
+        ]
+      },
+      "properties": {
+        "name": "Chaukadi",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.170481,
+          25.749487
+        ]
+      },
+      "properties": {
+        "name": "Katoghan",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.140017,
+          19.638154
+        ]
+      },
+      "properties": {
+        "name": "Gurapalli",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.165581,
+          20.678864
+        ]
+      },
+      "properties": {
+        "name": "Srirampur",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.668597,
+          20.20348
+        ]
+      },
+      "properties": {
+        "name": "Gudipada (Old Gangapada)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.836645,
+          21.429889
+        ]
+      },
+      "properties": {
+        "name": "Sergarh",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.21625,
+          20.897746
+        ]
+      },
+      "properties": {
+        "name": "Panikholi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.96387,
+          20.540387
+        ]
+      },
+      "properties": {
+        "name": "Manguli",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1107,
+          17.215448
+        ]
+      },
+      "properties": {
+        "name": "Krishnavaram",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.409222,
+          19.28019
+        ]
+      },
+      "properties": {
+        "name": "Rolmamda",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.471683,
+          17.801103
+        ]
+      },
+      "properties": {
+        "name": "Manoharabad",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.362705,
+          19.026592
+        ]
+      },
+      "properties": {
+        "name": "Gamjal",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.565772,
+          19.781093
+        ]
+      },
+      "properties": {
+        "name": "Pippalwada",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.503153,
+          23.542635
+        ]
+      },
+      "properties": {
+        "name": "Pundag",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.557567,
+          26.944488
+        ]
+      },
+      "properties": {
+        "name": "Sikandra",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.105596,
+          26.859184
+        ]
+      },
+      "properties": {
+        "name": "Rajadhok",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.090874,
+          27.101301
+        ]
+      },
+      "properties": {
+        "name": "Amoli",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.615578,
+          26.843328
+        ]
+      },
+      "properties": {
+        "name": "Thikariya (Jaipur)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.904726,
+          26.68816
+        ]
+      },
+      "properties": {
+        "name": "Barkheda (Chandlai)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.744832,
+          26.109852
+        ]
+      },
+      "properties": {
+        "name": "Sonwa (Sonva)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5948394,
+          25.5938407
+        ]
+      },
+      "properties": {
+        "name": "Lambiya Kalan",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.770734,
+          13.059436
+        ]
+      },
+      "properties": {
+        "name": "Hoskote",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.764384,
+          13.793094
+        ]
+      },
+      "properties": {
+        "name": "Bagepalli",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.623563,
+          12.958304
+        ]
+      },
+      "properties": {
+        "name": "Kirasave",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.228913,
+          12.982709
+        ]
+      },
+      "properties": {
+        "name": "Shanthigrama",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.940536,
+          32.838928
+        ]
+      },
+      "properties": {
+        "name": "Bann",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.614278,
+          32.058621
+        ]
+      },
+      "properties": {
+        "name": "Harsa Mansar",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.165874,
+          19.361481
+        ]
+      },
+      "properties": {
+        "name": "Arjunali",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.253327,
+          21.382332
+        ]
+      },
+      "properties": {
+        "name": "Mansar (Kamptee - Kanhan Bypass)/ Tekadi",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.963632,
+          20.85612
+        ]
+      },
+      "properties": {
+        "name": "Borkhedi (Nagpur ByPass)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.754192,
+          20.833054
+        ]
+      },
+      "properties": {
+        "name": "Laling (Dhule)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.709536,
+          21.664929
+        ]
+      },
+      "properties": {
+        "name": "Vanana",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.210298,
+          25.879908
+        ]
+      },
+      "properties": {
+        "name": "Ait",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.448812,
+          24.789564
+        ]
+      },
+      "properties": {
+        "name": "Vighakhet",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.462709,
+          24.241335
+        ]
+      },
+      "properties": {
+        "name": "Khemana",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.52111,
+          18.05799
+        ]
+      },
+      "properties": {
+        "name": "Laxmipuram",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.153489,
+          26.225984
+        ]
+      },
+      "properties": {
+        "name": "Raje(Old Naraur)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.807965,
+          18.273462
+        ]
+      },
+      "properties": {
+        "name": "Chilakapalem",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.239734,
+          18.538266
+        ]
+      },
+      "properties": {
+        "name": "Indalwai",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09453,
+          18.844903
+        ]
+      },
+      "properties": {
+        "name": "Sardewadi / Indapur",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.752729,
+          27.503818
+        ]
+      },
+      "properties": {
+        "name": "Itunja (Barabhari)",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.422445,
+          26.858314
+        ]
+      },
+      "properties": {
+        "name": "Ahmadpur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.006302,
+          26.763728
+        ]
+      },
+      "properties": {
+        "name": "Ronahi",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.694765,
+          26.623172
+        ]
+      },
+      "properties": {
+        "name": "Nawabganj",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.430522,
+          27.99978
+        ]
+      },
+      "properties": {
+        "name": "Shahjahanpur",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9535128,
+          27.3056399
+        ]
+      },
+      "properties": {
+        "name": "Manoharpur",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8345568,
+          27.0868994
+        ]
+      },
+      "properties": {
+        "name": "Daulatpura",
+        "LMV": "₹95-125",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.194493,
+          17.005867
+        ]
+      },
+      "properties": {
+        "name": "Raikal",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.944453,
+          16.535645
+        ]
+      },
+      "properties": {
+        "name": "Shakhapur",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8217,
+          17.485724
+        ]
+      },
+      "properties": {
+        "name": "Gudur (Hyd-Yadgiri)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.016978,
+          15.887742
+        ]
+      },
+      "properties": {
+        "name": "Pullur",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.67582,
+          17.397831
+        ]
+      },
+      "properties": {
+        "name": "Vempadu",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.960464,
+          17.232887
+        ]
+      },
+      "properties": {
+        "name": "Panthangi",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.275366,
+          26.568967
+        ]
+      },
+      "properties": {
+        "name": "Paschim Madati",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.39207,
+          22.24076
+        ]
+      },
+      "properties": {
+        "name": "Rampura",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3881,
+          24.3234
+        ]
+      },
+      "properties": {
+        "name": "Rasoiya Dhamna",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.948614,
+          24.030104
+        ]
+      },
+      "properties": {
+        "name": "Ghanghri",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.324314,
+          16.718077
+        ]
+      },
+      "properties": {
+        "name": "Keesara",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53367,
+          16.3856
+        ]
+      },
+      "properties": {
+        "name": "Kaza",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.894624,
+          14.059589
+        ]
+      },
+      "properties": {
+        "name": "Budhanam",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.631127,
+          14.499817
+        ]
+      },
+      "properties": {
+        "name": "Marur",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.522855,
+          22.397144
+        ]
+      },
+      "properties": {
+        "name": "Debra",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.869477,
+          22.335479
+        ]
+      },
+      "properties": {
+        "name": "Sonapetya",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.699281,
+          19.111282
+        ]
+      },
+      "properties": {
+        "name": "Bellupada",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.000528,
+          18.377344
+        ]
+      },
+      "properties": {
+        "name": "Madapam",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.149931,
+          17.685435
+        ]
+      },
+      "properties": {
+        "name": "Aganampudi",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.034744,
+          25.250014
+        ]
+      },
+      "properties": {
+        "name": "Balgudar",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.70284,
+          24.599579
+        ]
+      },
+      "properties": {
+        "name": "Saukala",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.257067,
+          10.536361
+        ]
+      },
+      "properties": {
+        "name": "Ponnambalapatti",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.212186,
+          17.713856
+        ]
+      },
+      "properties": {
+        "name": "Main Toll (Panchvati colony) (Sheela Nagar)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.739648,
+          16.786741
+        ]
+      },
+      "properties": {
+        "name": "Kasaba (Bijapur)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.916296,
+          14.312218
+        ]
+      },
+      "properties": {
+        "name": "Venkatachalam (Old Nellore)",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.907078,
+          24.633512
+        ]
+      },
+      "properties": {
+        "name": "Undavariya/ Sirohi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.084165,
+          22.959586
+        ]
+      },
+      "properties": {
+        "name": "Indore Dewas (Indore side)",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.521081,
+          18.057967
+        ]
+      },
+      "properties": {
+        "name": "Nathavalasa/ Vizianagaram",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.862502,
+          16.572341
+        ]
+      },
+      "properties": {
+        "name": "Pottipadu",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.022129,
+          16.676408
+        ]
+      },
+      "properties": {
+        "name": "Kalaparru",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.990993,
+          13.744936
+        ]
+      },
+      "properties": {
+        "name": "Sullurpet",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.987757,
+          14.851896
+        ]
+      },
+      "properties": {
+        "name": "Sunambatti (Musunuru)",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.070843,
+          15.886754
+        ]
+      },
+      "properties": {
+        "name": "Bolapalli",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.040105,
+          15.358166
+        ]
+      },
+      "properties": {
+        "name": "Tanguturu",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.630325,
+          15.061783
+        ]
+      },
+      "properties": {
+        "name": "Kasepalli",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.122928,
+          17.365756
+        ]
+      },
+      "properties": {
+        "name": "Tasawade",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2983001,
+          16.8767054
+        ]
+      },
+      "properties": {
+        "name": "Kini",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.897632,
+          15.48468
+        ]
+      },
+      "properties": {
+        "name": "Amakathadu",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.783991,
+          23.912341
+        ]
+      },
+      "properties": {
+        "name": "Bhalgam (Belgaum)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.652944,
+          13.1955
+        ]
+      },
+      "properties": {
+        "name": "Laxmannath",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.331066,
+          17.957588
+        ]
+      },
+      "properties": {
+        "name": "Varwade",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.240691,
+          26.197589
+        ]
+      },
+      "properties": {
+        "name": "Gwalior Bypass (Mehra)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.689457,
+          23.233738
+        ]
+      },
+      "properties": {
+        "name": "Surajbari",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.75589,
+          17.764629
+        ]
+      },
+      "properties": {
+        "name": "Sawaleshwar",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.809133,
+          23.725268
+        ]
+      },
+      "properties": {
+        "name": "Chitora",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.464288,
+          23.780036
+        ]
+      },
+      "properties": {
+        "name": "Bakoli",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.560573,
+          14.053778
+        ]
+      },
+      "properties": {
+        "name": "Guilalu",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.953866,
+          13.612918
+        ]
+      },
+      "properties": {
+        "name": "Karjeevanhalli",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.649812,
+          13.19355
+        ]
+      },
+      "properties": {
+        "name": "Navayuga Devanahalli / Sadahalli / Pujanahalli",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.161956,
+          13.302065
+        ]
+      },
+      "properties": {
+        "name": "Kaythsandra/Tumkur/Chokkanahalli",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.98176,
+          28.395604
+        ]
+      },
+      "properties": {
+        "name": "Kherki Daula",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.026395,
+          23.178722
+        ]
+      },
+      "properties": {
+        "name": "Palsit",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.585425,
+          26.126972
+        ]
+      },
+      "properties": {
+        "name": "Badauri",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.325118,
+          22.654373
+        ]
+      },
+      "properties": {
+        "name": "Nivedita Setu",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.288862,
+          22.698891
+        ]
+      },
+      "properties": {
+        "name": "Dankuni",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.181739,
+          22.57319
+        ]
+      },
+      "properties": {
+        "name": "Jaladhulagori (Dhulagarh)",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.843205,
+          25.933485
+        ]
+      },
+      "properties": {
+        "name": "Surjapur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.79803,
+          23.763627
+        ]
+      },
+      "properties": {
+        "name": "Beliyad",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.445216,
+          26.152636
+        ]
+      },
+      "properties": {
+        "name": "Hariabara",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.59074,
+          25.804671
+        ]
+      },
+      "properties": {
+        "name": "Barsoni",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.01154,
+          25.385796
+        ]
+      },
+      "properties": {
+        "name": "Kharik",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.458249,
+          25.728646
+        ]
+      },
+      "properties": {
+        "name": "Maranga",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.052162,
+          20.885548
+        ]
+      },
+      "properties": {
+        "name": "Boriach",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.917204,
+          20.43495
+        ]
+      },
+      "properties": {
+        "name": "Bhagwada",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.942644,
+          19.890544
+        ]
+      },
+      "properties": {
+        "name": "Charoti",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.916883,
+          19.520454
+        ]
+      },
+      "properties": {
+        "name": "Khaniwade",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.918442,
+          29.31922
+        ]
+      },
+      "properties": {
+        "name": "Dahar",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.609736,
+          28.944307
+        ]
+      },
+      "properties": {
+        "name": "Makrauli Kalan",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.630217,
+          26.299831
+        ]
+      },
+      "properties": {
+        "name": "Asanpur",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.106875,
+          14.375564
+        ]
+      },
+      "properties": {
+        "name": "Hebbalu",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.40121,
+          12.910943
+        ]
+      },
+      "properties": {
+        "name": "Chennasamudram",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.785116,
+          21.050995
+        ]
+      },
+      "properties": {
+        "name": "Songir",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.115435,
+          28.543853
+        ]
+      },
+      "properties": {
+        "name": "IGI Airport",
+        "LMV": "₹125-155",
+        "MAV": "₹380-480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.312781,
+          15.357898
+        ]
+      },
+      "properties": {
+        "name": "Shahapur",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.923324,
+          16.290681
+        ]
+      },
+      "properties": {
+        "name": "Vanagari",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.115049,
+          22.015027
+        ]
+      },
+      "properties": {
+        "name": "BharthanKarjan",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.047612,
+          25.648846
+        ]
+      },
+      "properties": {
+        "name": "Deingpasoh",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.557668,
+          10.885791
+        ]
+      },
+      "properties": {
+        "name": "Thirupparaithurai",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.215268,
+          10.930934
+        ]
+      },
+      "properties": {
+        "name": "Manavasi",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.747767,
+          10.624244
+        ]
+      },
+      "properties": {
+        "name": "Lechchumanapatti",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.254472,
+          23.61615
+        ]
+      },
+      "properties": {
+        "name": "Vantada",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.828618,
+          23.410181
+        ]
+      },
+      "properties": {
+        "name": "Kathpur",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.770713,
+          10.299776
+        ]
+      },
+      "properties": {
+        "name": "Lambalakudi",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.650399,
+          22.975844
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad Vadodra Expressways",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.777119,
+          12.776883
+        ]
+      },
+      "properties": {
+        "name": "Attibele (BETL)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37463,
+          13.114638
+        ]
+      },
+      "properties": {
+        "name": "Neelamangala  - Tumkur /Kulumepalya",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.670866,
+          12.847667
+        ]
+      },
+      "properties": {
+        "name": "Elevated Section/ Electronic City",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.921069,
+          16.292989
+        ]
+      },
+      "properties": {
+        "name": "Nagarhalla",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.139696,
+          15.318834
+        ]
+      },
+      "properties": {
+        "name": "Gabbur (MoRTH)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.969857,
+          15.488902
+        ]
+      },
+      "properties": {
+        "name": "Narendra (MoRTH)",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.215127,
+          9.283225
+        ]
+      },
+      "properties": {
+        "name": "Pamban Bridge (MoRTH)",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.869461,
+          26.567367
+        ]
+      },
+      "properties": {
+        "name": "Kalia Bhomora Bridge (MoRTH)",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.811537,
+          26.149881
+        ]
+      },
+      "properties": {
+        "name": "Gangadhar Bridge (MoRTH)",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.904897,
+          25.592575
+        ]
+      },
+      "properties": {
+        "name": "Baggad (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.160275,
+          25.884014
+        ]
+      },
+      "properties": {
+        "name": "Bagaliya (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.161496,
+          22.620565
+        ]
+      },
+      "properties": {
+        "name": "Bagodara (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.094525,
+          18.844713
+        ]
+      },
+      "properties": {
+        "name": "Kharpada (MoRTH)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.148301,
+          31.898237
+        ]
+      },
+      "properties": {
+        "name": "Jia Bridge (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.462503,
+          18.084885
+        ]
+      },
+      "properties": {
+        "name": "Savitri (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.670495,
+          21.013505
+        ]
+      },
+      "properties": {
+        "name": "Nashirabad (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.829168,
+          21.039996
+        ]
+      },
+      "properties": {
+        "name": "Fekri (MoRTH)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.006946,
+          19.2121
+        ]
+      },
+      "properties": {
+        "name": "Kharegaon (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.823404,
+          18.605613
+        ]
+      },
+      "properties": {
+        "name": "Moshi (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.071876,
+          23.471246
+        ]
+      },
+      "properties": {
+        "name": "Parvati Bridge (MoRTH)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.881986,
+          18.844296
+        ]
+      },
+      "properties": {
+        "name": "Chandloi/ Rajgurunagar (MoRTH)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.384806,
+          23.888883
+        ]
+      },
+      "properties": {
+        "name": "Ashoka DSC Katni bypass (MoRTH)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.992593,
+          18.493223
+        ]
+      },
+      "properties": {
+        "name": "Kawdipath (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.234706,
+          18.48286
+        ]
+      },
+      "properties": {
+        "name": "Kasurdi (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.346796,
+          24.550197
+        ]
+      },
+      "properties": {
+        "name": "Koshta (MoRTH)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.675405,
+          21.139568
+        ]
+      },
+      "properties": {
+        "name": "Kardha (MoRTH)",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.066995,
+          21.086207
+        ]
+      },
+      "properties": {
+        "name": "Tiwasa (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.823119,
+          21.181762
+        ]
+      },
+      "properties": {
+        "name": "Nardana (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.272518,
+          26.320743
+        ]
+      },
+      "properties": {
+        "name": "Baretha (MoRTH)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.880075,
+          17.534301
+        ]
+      },
+      "properties": {
+        "name": "Wadakbal (MoRTH)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.917937,
+          26.683159
+        ]
+      },
+      "properties": {
+        "name": "Barahi (MoRTH)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.015587,
+          22.409684
+        ]
+      },
+      "properties": {
+        "name": "Bamanbore (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.273342,
+          17.523428
+        ]
+      },
+      "properties": {
+        "name": "Patancheru (Prograssive Construction Toll) (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19098,
+          29.842349
+        ]
+      },
+      "properties": {
+        "name": "Rawason Bridge (MoRTH)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.812198,
+          21.766145
+        ]
+      },
+      "properties": {
+        "name": "Nandghat Bridge (MoRTH)",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.536664,
+          21.252543
+        ]
+      },
+      "properties": {
+        "name": "Kharun (MoRTH)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.337106,
+          21.204731
+        ]
+      },
+      "properties": {
+        "name": "Kosa Nala (MoRTH)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.318202,
+          9.94307
+        ]
+      },
+      "properties": {
+        "name": "Kundannur (MoRTH)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89465,
+          8.520122
+        ]
+      },
+      "properties": {
+        "name": "Akkulam (MoRTH)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.28012,
+          10.074058
+        ]
+      },
+      "properties": {
+        "name": "Varapuzha Bridge (MoRTH)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842871,
+          22.792886
+        ]
+      },
+      "properties": {
+        "name": "Bhatwada (Godhra)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.640462,
+          31.623756
+        ]
+      },
+      "properties": {
+        "name": "Chollang",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.160654,
+          16.885015
+        ]
+      },
+      "properties": {
+        "name": "Chillakallu",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.474848,
+          17.159677
+        ]
+      },
+      "properties": {
+        "name": "Korlaphadu",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.303646,
+          15.323649
+        ]
+      },
+      "properties": {
+        "name": "Hitnal",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.087022,
+          27.804002
+        ]
+      },
+      "properties": {
+        "name": "Madrak",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.032201,
+          27.346247
+        ]
+      },
+      "properties": {
+        "name": "Baros",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.661034,
+          27.558744
+        ]
+      },
+      "properties": {
+        "name": "Khairabad (Karondi)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.957428,
+          22.413798
+        ]
+      },
+      "properties": {
+        "name": "Pithai",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.533274,
+          22.792571
+        ]
+      },
+      "properties": {
+        "name": "Vavadikhurd",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.290548,
+          13.148469
+        ]
+      },
+      "properties": {
+        "name": "Mulbagal",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.019993,
+          24.563182
+        ]
+      },
+      "properties": {
+        "name": "Kishorpur (Chandermore)",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.18629,
+          24.150449
+        ]
+      },
+      "properties": {
+        "name": "Gopgram (Shibpur)",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.464471,
+          25.216966
+        ]
+      },
+      "properties": {
+        "name": "Babina",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.712054,
+          26.476288
+        ]
+      },
+      "properties": {
+        "name": "Dahalapara",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.902248,
+          28.814182
+        ]
+      },
+      "properties": {
+        "name": "Niyamatpur Ekrotiya",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.283886,
+          28.480289
+        ]
+      },
+      "properties": {
+        "name": "Thriyakhetal",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.756535,
+          26.476592
+        ]
+      },
+      "properties": {
+        "name": "Guabari",
+        "LMV": "₹115-145",
+        "MAV": "₹360-460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.418722,
+          22.043538
+        ]
+      },
+      "properties": {
+        "name": "Fulara",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.433316,
+          21.841921
+        ]
+      },
+      "properties": {
+        "name": "Chikhalikala",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.151021,
+          22.377896
+        ]
+      },
+      "properties": {
+        "name": "Jungawani",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.600413,
+          22.548497
+        ]
+      },
+      "properties": {
+        "name": "Jaitpur",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.066094,
+          26.524482
+        ]
+      },
+      "properties": {
+        "name": "Dakhina Sekhpur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8726,
+          21.471322
+        ]
+      },
+      "properties": {
+        "name": "Kelwad",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.798051,
+          10.81311
+        ]
+      },
+      "properties": {
+        "name": "Chullimada Hamlet (Pampampallam)",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.163011,
+          26.069752
+        ]
+      },
+      "properties": {
+        "name": "Aliyapur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.060095,
+          25.543293
+        ]
+      },
+      "properties": {
+        "name": "Khanna",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.681021,
+          21.35447
+        ]
+      },
+      "properties": {
+        "name": "Baragarh (Barhaguda)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.257977,
+          10.010336
+        ]
+      },
+      "properties": {
+        "name": "Ponnarimangalam",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.533697,
+          32.197881
+        ]
+      },
+      "properties": {
+        "name": "Ladpalwan",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.041365,
+          31.731947
+        ]
+      },
+      "properties": {
+        "name": "Waryam Nangal",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.247807,
+          25.570828
+        ]
+      },
+      "properties": {
+        "name": "Deederganj",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.348401,
+          27.50603
+        ]
+      },
+      "properties": {
+        "name": "Akhepura",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.961508,
+          21.864457
+        ]
+      },
+      "properties": {
+        "name": "Milanpur",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.387824,
+          21.693812
+        ]
+      },
+      "properties": {
+        "name": "Khambara",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.009038,
+          21.343724
+        ]
+      },
+      "properties": {
+        "name": "Patanswangi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.780202,
+          26.551347
+        ]
+      },
+      "properties": {
+        "name": "Gegal",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.371725,
+          26.158466
+        ]
+      },
+      "properties": {
+        "name": "Pipalaz",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.295437,
+          21.425234
+        ]
+      },
+      "properties": {
+        "name": "Gadoi",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.334349,
+          20.961287
+        ]
+      },
+      "properties": {
+        "name": "Dari",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.541521,
+          26.245678
+        ]
+      },
+      "properties": {
+        "name": "Raha(Saragaon)",
+        "LMV": "₹115-145",
+        "MAV": "₹360-460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.875479,
+          26.114657
+        ]
+      },
+      "properties": {
+        "name": "Daboka",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.879125,
+          26.100258
+        ]
+      },
+      "properties": {
+        "name": "Nazira Khat",
+        "LMV": "₹115-145",
+        "MAV": "₹360-460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.478511,
+          21.134676
+        ]
+      },
+      "properties": {
+        "name": "Mandal (Vyara)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.869085,
+          21.190249
+        ]
+      },
+      "properties": {
+        "name": "Bhatia",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.629298,
+          28.497746
+        ]
+      },
+      "properties": {
+        "name": "Luharali",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.946047,
+          28.062821
+        ]
+      },
+      "properties": {
+        "name": "Somna",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.905328,
+          21.20296
+        ]
+      },
+      "properties": {
+        "name": "Lakholi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.607029,
+          21.229353
+        ]
+      },
+      "properties": {
+        "name": "Sundar Nagar",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.05947,
+          26.063535
+        ]
+      },
+      "properties": {
+        "name": "Raipur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.45492,
+          25.828286
+        ]
+      },
+      "properties": {
+        "name": "Indranagar",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.201486,
+          25.371114
+        ]
+      },
+      "properties": {
+        "name": "Birami",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94353,
+          25.033571
+        ]
+      },
+      "properties": {
+        "name": "Uthamam",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.545197,
+          13.194218
+        ]
+      },
+      "properties": {
+        "name": "Gaddurur",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.365105,
+          21.139545
+        ]
+      },
+      "properties": {
+        "name": "WEPL Mathani",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.493984,
+          26.373615
+        ]
+      },
+      "properties": {
+        "name": "Runni",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.532925,
+          13.525577
+        ]
+      },
+      "properties": {
+        "name": "S V Puram",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.834675,
+          13.150776
+        ]
+      },
+      "properties": {
+        "name": "Pattaraiperumbudur (temporary TP)",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83902,
+          20.137113
+        ]
+      },
+      "properties": {
+        "name": "Paat Sahanipur (Pipli)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.503896,
+          24.420042
+        ]
+      },
+      "properties": {
+        "name": "Methoon",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.073181,
+          11.012827
+        ]
+      },
+      "properties": {
+        "name": "Kaniyur",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.801655,
+          22.934663
+        ]
+      },
+      "properties": {
+        "name": "Mokha",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.827876,
+          16.715205
+        ]
+      },
+      "properties": {
+        "name": "Eethakota",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.430664,
+          16.823729
+        ]
+      },
+      "properties": {
+        "name": "Unguturu",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.574764,
+          14.979577
+        ]
+      },
+      "properties": {
+        "name": "Chagalmarri",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.79121,
+          14.513518
+        ]
+      },
+      "properties": {
+        "name": "Palempalli",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.860491,
+          25.99328
+        ]
+      },
+      "properties": {
+        "name": "Pahammawlein",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.795216,
+          28.754563
+        ]
+      },
+      "properties": {
+        "name": "Rohad",
+        "LMV": "₹115-145",
+        "MAV": "₹360-460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.130522,
+          25.17025
+        ]
+      },
+      "properties": {
+        "name": "Kishorpura",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.814701,
+          25.20385
+        ]
+      },
+      "properties": {
+        "name": "Mandawada (Gomati)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.061836,
+          25.704011
+        ]
+      },
+      "properties": {
+        "name": "Negadiya",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.792333,
+          12.993098
+        ]
+      },
+      "properties": {
+        "name": "Surathkal",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.398261,
+          18.205251
+        ]
+      },
+      "properties": {
+        "name": "Bhiknoor",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.32499,
+          25.674873
+        ]
+      },
+      "properties": {
+        "name": "Kunwarpur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.43825,
+          26.035838
+        ]
+      },
+      "properties": {
+        "name": "Nuruddinpur",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.94286,
+          21.299829
+        ]
+      },
+      "properties": {
+        "name": "Chuipali",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.422438,
+          21.226901
+        ]
+      },
+      "properties": {
+        "name": "Dhank",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.070539,
+          22.453254
+        ]
+      },
+      "properties": {
+        "name": "Vasad",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.740887,
+          22.715971
+        ]
+      },
+      "properties": {
+        "name": "Radhvanaj (Kheda)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.442169,
+          28.927049
+        ]
+      },
+      "properties": {
+        "name": "Madina Korsan",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.885093,
+          29.100833
+        ]
+      },
+      "properties": {
+        "name": "Ramayana",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.338933,
+          25.788339
+        ]
+      },
+      "properties": {
+        "name": "Para",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.283461,
+          25.802861
+        ]
+      },
+      "properties": {
+        "name": "Saidpur Patedha",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.001389,
+          26.084278
+        ]
+      },
+      "properties": {
+        "name": "Lilamba",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.54465,
+          27.292105
+        ]
+      },
+      "properties": {
+        "name": "Aaini",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.527252,
+          27.825548
+        ]
+      },
+      "properties": {
+        "name": "Gulalpurva",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.794134,
+          22.607365
+        ]
+      },
+      "properties": {
+        "name": "Sonvay (Indore - Khalghat)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.074993,
+          19.170738
+        ]
+      },
+      "properties": {
+        "name": "Chalakwadi",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.201583,
+          19.516452
+        ]
+      },
+      "properties": {
+        "name": "Hivargaon Pavsa",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.616734,
+          25.865638
+        ]
+      },
+      "properties": {
+        "name": "Nimbaniya Ki Dhani (Bayatu)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.713082,
+          13.47641
+        ]
+      },
+      "properties": {
+        "name": "Gundmi",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.784562,
+          13.108245
+        ]
+      },
+      "properties": {
+        "name": "Hazamady",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.874087,
+          12.75958
+        ]
+      },
+      "properties": {
+        "name": "Talapady",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.50172,
+          16.985586
+        ]
+      },
+      "properties": {
+        "name": "Kadthal",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.677722,
+          16.608082
+        ]
+      },
+      "properties": {
+        "name": "Konetipuram",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.980527,
+          17.471578
+        ]
+      },
+      "properties": {
+        "name": "Chinthapally",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.966864,
+          24.822455
+        ]
+      },
+      "properties": {
+        "name": "Lakshmipur",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.182566,
+          25.195872
+        ]
+      },
+      "properties": {
+        "name": "Chakseherdi (Gajol) Bagsarai",
+        "LMV": "₹115-145",
+        "MAV": "₹360-460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.447437,
+          26.038799
+        ]
+      },
+      "properties": {
+        "name": "Mahanth Maniyari",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.875945,
+          25.590289
+        ]
+      },
+      "properties": {
+        "name": "Govindpur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.086068,
+          26.537213
+        ]
+      },
+      "properties": {
+        "name": "Konder",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.515359,
+          26.613002
+        ]
+      },
+      "properties": {
+        "name": "Chila Chond",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.811532,
+          27.177493
+        ]
+      },
+      "properties": {
+        "name": "Raibha",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.252118,
+          33.024637
+        ]
+      },
+      "properties": {
+        "name": "Mada",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.303421,
+          33.174771
+        ]
+      },
+      "properties": {
+        "name": "Nashri",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.351659,
+          27.275167
+        ]
+      },
+      "properties": {
+        "name": "Banthadi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.293475,
+          26.870978
+        ]
+      },
+      "properties": {
+        "name": "Tamdoli",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.988241,
+          25.110565
+        ]
+      },
+      "properties": {
+        "name": "Rupa Kheda",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.492879,
+          25.274995
+        ]
+      },
+      "properties": {
+        "name": "Mujras",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.875389,
+          29.810574
+        ]
+      },
+      "properties": {
+        "name": "SixML",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.481566,
+          28.712002
+        ]
+      },
+      "properties": {
+        "name": "Lasedi",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.05592,
+          28.329757
+        ]
+      },
+      "properties": {
+        "name": "Dhadhar",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.723371,
+          27.76326
+        ]
+      },
+      "properties": {
+        "name": "Shobhasar",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.560418,
+          14.210397
+        ]
+      },
+      "properties": {
+        "name": "Rapur",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.589622,
+          13.788513
+        ]
+      },
+      "properties": {
+        "name": "Chintalapalem",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.633633,
+          16.850428
+        ]
+      },
+      "properties": {
+        "name": "Badava",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.651128,
+          10.158744
+        ]
+      },
+      "properties": {
+        "name": "Shenbagampettai",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.914295,
+          26.308858
+        ]
+      },
+      "properties": {
+        "name": "Jasnathnagar",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.327192,
+          26.570811
+        ]
+      },
+      "properties": {
+        "name": "Motisar (Khanori)",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.981819,
+          26.889721
+        ]
+      },
+      "properties": {
+        "name": "Morani (Pokaran)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.497541,
+          15.412411
+        ]
+      },
+      "properties": {
+        "name": "Mekalavaripalli",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.450868,
+          15.197922
+        ]
+      },
+      "properties": {
+        "name": "Raviguntapalli",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.049052,
+          14.736039
+        ]
+      },
+      "properties": {
+        "name": "Brahmanapalli",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.117538,
+          21.147001
+        ]
+      },
+      "properties": {
+        "name": "Hasanpur (Sainkul)",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.826198,
+          21.508544
+        ]
+      },
+      "properties": {
+        "name": "Khantaghar (Dhenkikote)",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5836,
+          21.710167
+        ]
+      },
+      "properties": {
+        "name": "Banajodi (Padmapur)",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.365223,
+          24.522264
+        ]
+      },
+      "properties": {
+        "name": "Khadda",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.802372,
+          24.395853
+        ]
+      },
+      "properties": {
+        "name": "Sonvarsaa",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.648213,
+          29.292067
+        ]
+      },
+      "properties": {
+        "name": "Landhari",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.088477,
+          29.578554
+        ]
+      },
+      "properties": {
+        "name": "Narwana",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.819719,
+          29.299141
+        ]
+      },
+      "properties": {
+        "name": "Badopatti",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.604417,
+          28.99832
+        ]
+      },
+      "properties": {
+        "name": "Chaudhriwas",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.148309,
+          30.265789
+        ]
+      },
+      "properties": {
+        "name": "Kalajhar",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.640226,
+          30.247772
+        ]
+      },
+      "properties": {
+        "name": "Badbar",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.064081,
+          29.060626
+        ]
+      },
+      "properties": {
+        "name": "Bhagan",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.756866,
+          23.548753
+        ]
+      },
+      "properties": {
+        "name": "Sosokhurd",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.045229,
+          23.668354
+        ]
+      },
+      "properties": {
+        "name": "Tand Balidih",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.673202,
+          26.062927
+        ]
+      },
+      "properties": {
+        "name": "Doli",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0306,
+          10.612499
+        ]
+      },
+      "properties": {
+        "name": "Palaya Gandharvakottai",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.317882,
+          17.745596
+        ]
+      },
+      "properties": {
+        "name": "Mangalgi",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.820114,
+          17.645717
+        ]
+      },
+      "properties": {
+        "name": "Kamkole",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "Yedeshi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0,
+          1.0
+        ]
+      },
+      "properties": {
+        "name": "Tamalwadi",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.475734,
+          28.930785
+        ]
+      },
+      "properties": {
+        "name": "Deoria",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.988952,
+          24.097278
+        ]
+      },
+      "properties": {
+        "name": "Jogipura",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.186491,
+          24.517835
+        ]
+      },
+      "properties": {
+        "name": "Pagara",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.781932,
+          25.155846
+        ]
+      },
+      "properties": {
+        "name": "Sakatpura(LHS)(Staggered)",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.796565,
+          25.132506
+        ]
+      },
+      "properties": {
+        "name": "Nayagaon(RHS) (Staggered)",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.059975,
+          21.702698
+        ]
+      },
+      "properties": {
+        "name": "Mandava",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.872406,
+          14.708361
+        ]
+      },
+      "properties": {
+        "name": "Basapuram",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.070783,
+          15.741038
+        ]
+      },
+      "properties": {
+        "name": "Nannur",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.615602,
+          25.245762
+        ]
+      },
+      "properties": {
+        "name": "Purankhedi",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.376575,
+          23.491222
+        ]
+      },
+      "properties": {
+        "name": "Banskopa",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.875044,
+          25.637124
+        ]
+      },
+      "properties": {
+        "name": "Semri",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8157,
+          28.941
+        ]
+      },
+      "properties": {
+        "name": "Banushi",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.407666,
+          25.562272
+        ]
+      },
+      "properties": {
+        "name": "Hathitala",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.549558,
+          25.105861
+        ]
+      },
+      "properties": {
+        "name": "Bor Charnan",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.856074,
+          27.26549
+        ]
+      },
+      "properties": {
+        "name": "Harimma",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1915,
+          27.30534
+        ]
+      },
+      "properties": {
+        "name": "Nimbi Jodha",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.691,
+          25.865
+        ]
+      },
+      "properties": {
+        "name": "Jindpur",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0326,
+          26.197
+        ]
+      },
+      "properties": {
+        "name": "Aihar",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.293,
+          25.467
+        ]
+      },
+      "properties": {
+        "name": "Limdi",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.194411,
+          30.21128
+        ]
+      },
+      "properties": {
+        "name": "Milk Majra",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.873269,
+          13.7143
+        ]
+      },
+      "properties": {
+        "name": "Durgamvaripalli",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.862348,
+          14.543265
+        ]
+      },
+      "properties": {
+        "name": "Buchireddypalem",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5156,
+          14.6854
+        ]
+      },
+      "properties": {
+        "name": "DC PALLI",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3264,
+          40.32217
+        ]
+      },
+      "properties": {
+        "name": "Zidda",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.102496,
+          30.233092
+        ]
+      },
+      "properties": {
+        "name": "Leherabega",
+        "LMV": "₹60-80",
+        "MAV": "₹180-250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5,
+          30.4
+        ]
+      },
+      "properties": {
+        "name": "Paind",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.39255,
+          76.499529
+        ]
+      },
+      "properties": {
+        "name": "Dhareri jattan",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5930556,
+          76.759305
+        ]
+      },
+      "properties": {
+        "name": "Azizpur",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.81971,
+          29.29914
+        ]
+      },
+      "properties": {
+        "name": "Bhavdeen",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.453999,
+          15.818714
+        ]
+      },
+      "properties": {
+        "name": "Halaharvi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0194626,
+          27.0175781
+        ]
+      },
+      "properties": {
+        "name": "Ramdevra",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.446434,
+          27.0298347
+        ]
+      },
+      "properties": {
+        "name": "LATHI",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.73,
+          25.668
+        ]
+      },
+      "properties": {
+        "name": "Mudkhera",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0158,
+          26.0978
+        ]
+      },
+      "properties": {
+        "name": "Panihaar",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06546,
+          28.00137
+        ]
+      },
+      "properties": {
+        "name": "Salasar",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.40303,
+          27.45006
+        ]
+      },
+      "properties": {
+        "name": "Nokhra",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3230556,
+          27.2827777
+        ]
+      },
+      "properties": {
+        "name": "Kheerwa",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.793736,
+          29.880727
+        ]
+      },
+      "properties": {
+        "name": "Khuian Malkan",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2882,
+          25.4817
+        ]
+      },
+      "properties": {
+        "name": "Pasyih",
+        "LMV": "₹115-145",
+        "MAV": "₹360-460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3756,
+          25.706
+        ]
+      },
+      "properties": {
+        "name": "Lomshinong",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7859938,
+          16.4126432
+        ]
+      },
+      "properties": {
+        "name": "Davuluru",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3905556,
+          80.8085833
+        ]
+      },
+      "properties": {
+        "name": "Pandutala",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.335299,
+          9.780999
+        ]
+      },
+      "properties": {
+        "name": "Thiruppachethi",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7958556,
+          28.5798201
+        ]
+      },
+      "properties": {
+        "name": "Mohammad Ibrahimpur",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.013274,
+          19.24404
+        ]
+      },
+      "properties": {
+        "name": "Dumberwadi",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.967898,
+          25.924072
+        ]
+      },
+      "properties": {
+        "name": "Sonho",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.182733,
+          26.055956
+        ]
+      },
+      "properties": {
+        "name": "Pokhraira",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3630407,
+          28.1859646
+        ]
+      },
+      "properties": {
+        "name": "Belon",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.232649,
+          27.08318
+        ]
+      },
+      "properties": {
+        "name": "Hadawa",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.621477,
+          28.70178
+        ]
+      },
+      "properties": {
+        "name": "Chhajarsi",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3336137,
+          26.6293177
+        ]
+      },
+      "properties": {
+        "name": "Bara",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.56264,
+          26.18151
+        ]
+      },
+      "properties": {
+        "name": "Asroga",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.599361,
+          24.122464
+        ]
+      },
+      "properties": {
+        "name": "Kherwasani",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.71394,
+          9.398195
+        ]
+      },
+      "properties": {
+        "name": "Bogalur",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.41116,
+          19.15597
+        ]
+      },
+      "properties": {
+        "name": "Dhoki",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.30481,
+          23.48399
+        ]
+      },
+      "properties": {
+        "name": "Majhgawan",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.05883,
+          23.24908
+        ]
+      },
+      "properties": {
+        "name": "Pathoroundi",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.429282,
+          23.28186
+        ]
+      },
+      "properties": {
+        "name": "Shahdol",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.614862,
+          23.657222
+        ]
+      },
+      "properties": {
+        "name": "Chhapra",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.175973,
+          23.330918
+        ]
+      },
+      "properties": {
+        "name": "Rojwas",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.836537,
+          22.741519
+        ]
+      },
+      "properties": {
+        "name": "Dattigaon",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.545744,
+          22.6731595
+        ]
+      },
+      "properties": {
+        "name": "Methwada",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.903564,
+          18.002244
+        ]
+      },
+      "properties": {
+        "name": "Muthojipet",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8863888,
+          26.3827777
+        ]
+      },
+      "properties": {
+        "name": "Amdi",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6977,
+          18.63166
+        ]
+      },
+      "properties": {
+        "name": "Pargaon",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7487,
+          19.3181
+        ]
+      },
+      "properties": {
+        "name": "Padalshingi",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6152,
+          19.60083
+        ]
+      },
+      "properties": {
+        "name": "Bhokarwadi Maliwadi",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.419576,
+          20.604749
+        ]
+      },
+      "properties": {
+        "name": "Jagtara",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.658696,
+          19.662176
+        ]
+      },
+      "properties": {
+        "name": "Mashora",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.98472,
+          19.161402
+        ]
+      },
+      "properties": {
+        "name": "Badayiguda",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.105109,
+          80.030222
+        ]
+      },
+      "properties": {
+        "name": "Saliwada",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.6745948,
+          26.7024838
+        ]
+      },
+      "properties": {
+        "name": "Aksada",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3643,
+          27.2644
+        ]
+      },
+      "properties": {
+        "name": "Chhapwa",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.297,
+          26.9209
+        ]
+      },
+      "properties": {
+        "name": "Nainsar",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.078098,
+          23.418277
+        ]
+      },
+      "properties": {
+        "name": "Mohtara",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.079578,
+          24.404862
+        ]
+      },
+      "properties": {
+        "name": "Odhaki Paipkhar",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2718,
+          17.1387
+        ]
+      },
+      "properties": {
+        "name": "Gollaprolu",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2449,
+          13.1766
+        ]
+      },
+      "properties": {
+        "name": "Mathur",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2133991,
+          19.0990474
+        ]
+      },
+      "properties": {
+        "name": "Dilawarpur",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.93462,
+          24.966405
+        ]
+      },
+      "properties": {
+        "name": "Mandana",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.205575,
+          26.630978
+        ]
+      },
+      "properties": {
+        "name": "Kair Fakir ki Dhani",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.244267,
+          26.3395
+        ]
+      },
+      "properties": {
+        "name": "Pidhi",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.593749,
+          26.245278
+        ]
+      },
+      "properties": {
+        "name": "Aindhi",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1005555,
+          28.1602222
+        ]
+      },
+      "properties": {
+        "name": "Sabli",
+        "LMV": "₹105-135",
+        "MAV": "₹340-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.238792,
+          26.565182
+        ]
+      },
+      "properties": {
+        "name": "Patgaon",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.739668,
+          16.786827
+        ]
+      },
+      "properties": {
+        "name": "Kannolli",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.82095,
+          67.7752043
+        ]
+      },
+      "properties": {
+        "name": "Harval",
+        "LMV": "₹120-150",
+        "MAV": "₹400-500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.74068,
+          17.826227
+        ]
+      },
+      "properties": {
+        "name": "Talmod",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.193308,
+          17.79978
+        ]
+      },
+      "properties": {
+        "name": "Phulwadi",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.907251,
+          23.047864
+        ]
+      },
+      "properties": {
+        "name": "Boharipar (Khursi)",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.638119,
+          23.257753
+        ]
+      },
+      "properties": {
+        "name": "Sehatganj",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.039108,
+          20.551197
+        ]
+      },
+      "properties": {
+        "name": "Husnapur",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2936251,
+          14.710895
+        ]
+      },
+      "properties": {
+        "name": "Belekeri",
+        "LMV": "₹75-95",
+        "MAV": "₹240-340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.419155,
+          14.3593904
+        ]
+      },
+      "properties": {
+        "name": "Holegadde",
+        "LMV": "₹70-90",
+        "MAV": "₹220-320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5966233,
+          13.9334681
+        ]
+      },
+      "properties": {
+        "name": "Shirur",
+        "LMV": "₹65-85",
+        "MAV": "₹200-300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36003,
+          23.629195
+        ]
+      },
+      "properties": {
+        "name": "Sali Bamandanga",
+        "LMV": "₹115-145",
+        "MAV": "₹360-460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.772125,
+          25.558856
+        ]
+      },
+      "properties": {
+        "name": "Nawabganj (Adampur)only entry  exit lane plaza at Allahabad Bypass",
+        "LMV": "₹95-120",
+        "MAV": "₹320-420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.358179,
+          18.127774
+        ]
+      },
+      "properties": {
+        "name": "Ashiv",
+        "LMV": "₹80-110",
+        "MAV": "₹250-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.233611,
+          21.7575
+        ]
+      },
+      "properties": {
+        "name": "Namkhna",
+        "LMV": "₹110-140",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5011,
+          27.2038
+        ]
+      },
+      "properties": {
+        "name": "Mudhipar",
+        "LMV": "₹100-130",
+        "MAV": "₹350-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.061806,
+          21.950763
+        ]
+      },
+      "properties": {
+        "name": "Bhojpuri",
+        "LMV": "₹85-110",
+        "MAV": "₹280-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.876369,
+          20.857818
+        ]
+      },
+      "properties": {
+        "name": "Haladgaon",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65872,
+          22.96882
+        ]
+      },
+      "properties": {
+        "name": "Vadodara",
+        "LMV": "₹90-120",
+        "MAV": "₹300-400"
+      }
+    }
+  ]
+}
